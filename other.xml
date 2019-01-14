@@ -1,0 +1,136 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="ANDROID.STARRED_PROPERTIES" value="visibility;" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.WIDTH" value="304" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.WIDTH" value="234" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,COMPONENT_TREE,PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="CUSTOMIZE_ACTIONS" value="rename&#10;Refac&#10;usages&#10;Ju&#10;Jump to Source" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6425806" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6852518" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="ConstraintLayoutPreferenceShowAllConstraints" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="Edu.newPluginAdvertised" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="ActionScript File Header" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108283706" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.16406891" />
+    <property name="Gradle.Splitter.Proportion" value="0.24770147" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="JRebelAndroidPlugin.FirstTimestamp" value="2017-06-15T11:12:00.172Z" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.1c20f213.ApplyChangesApplicationCrash" value="1500894145056" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.1c20f213.GradleBuildFailure" value="1500893760519" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.1c20f213.RunApplicationCrash" value="1500893913444" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.1f97d971.GradleBuildFailure" value="1503995845364" />
+    <property name="JRebelAndroidPlugin.FirstUsageCrashAidDeadline.528154ef.GradleBuildFailure" value="1509472366827" />
+    <property name="JRebelAndroidPlugin.FirstVersion" value="2.2.40" />
+    <property name="JRebelAndroidPlugin.NewStartupActivationDialogNeeded" value="false" />
+    <property name="JRebelAndroidPlugin.OnboardingMakeProjectNeeded" value="false" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_RUN_TIME" value="2017-08-29T11:43:33.298+03:00" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_VERSION" value="2.3.20" />
+    <property name="JRebelAndroidPlugin.PROJECT_LAST_INVOKED_VERSION_TIMESTAMP" value="2017-08-28T12:23:30.006Z" />
+    <property name="JRebelAndroidPlugin.ReloadCounter" value="345" />
+    <property name="JRebelAndroidPlugin.Timestamp" value="2017-11-27T14:00:54.987Z" />
+    <property name="JRebelAndroidPlugin.TrialExtensionTypeShown5" value="JRebelAndroidPlugin.TrialResetThrottle" />
+    <property name="JRebelAndroidPlugin.TrialResetThrottle5" value="2017-12-06T17:19:22.063+03:00" />
+    <property name="JRebelAndroidPlugin.TrialResetThrottle5.TIMES" value="3" />
+    <property name="JRebelAndroidPlugin.Version" value="2.5.6" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnitSupport.sortTestsAlphabetically" value="false" />
+    <property name="LOG_FILTER_HISTORY" value="" />
+    <property name="LOG_FILTER_PACKAGE_NAME_HISTORY" value="com.multibrains." />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MobileminApi" value="15" />
+    <property name="MoveClass.OpenInEditor" value="true" />
+    <property name="NlScreenMode" value="BLUEPRINT_ONLY" />
+    <property name="PLUGIN_FILTER" value="spotify&#10;javaSc&#10;lombok&#10;proto&#10;stg" />
+    <property name="PROJECT_LAST_RAN_APPLICATION_ID" value="com.multibrains.taxi.passenger.demo" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.TopLevelElements" value="0.16027656" />
+    <property name="RunAnythingHistory" value="co&#10;orders_v2_in_search_status&#10;geocodeQuotaGate&#10;rails console&#10;orders_v2_by_driver_company_id_connect_at_day" />
+    <property name="SHOW_UPSOURCE_DISCUSSION_MARKERS" value="true" />
+    <property name="SearchEveryWhereHistory" value="hot swap&#10;Unchecked&#10;//&#10;&quot;&#10;CompApi" />
+    <property name="SettingsSearchHistory" value="Settings Repository&#10;reposy&#10;settings repo&#10;sett&#10;bar" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.70868945" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108283706" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="TestNGSupport.hideIgnoredTests" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="UPSOURCE_DISCUSSIONS_BAR_OPENED" value="false" />
+    <property name="UPSOURCE_DISCUSSIONS_BAR_WIDTH" value="249" />
+    <property name="Vcs.Log.Text.Filter.History" value="delay&#10;backwa&#10;Fixed backward compatibility for Sygic autocomplete.&#10;Fixed and implemented oper flush method. Minor refactoring.&#10;disable" />
+    <property name="android-component-compatibility-check" value="1532343445187" />
+    <property name="android.show.prompt.kill.session" value="true" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="color.picker.is.hsb" value="true" />
+    <property name="com.android.tools.idea.rendering.errors.ui.RenderErrorPanel.minimized" value="true" />
+    <property name="com.android.tools.idea.uibuilder.surface.DesignSurface.error.panel.split" value="1.0" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.172" value="17" />
+    <property name="evlsprt3.173" value="15" />
+    <property name="evlsprt3.181" value="17" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.gist.reindex.count" value="290902" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="find.popup.splitter" value="0.4300752" />
+    <property name="gradle.runner.text.console_str" value="false" />
+    <property name="gradle.test.runner.text.console_str" value="false" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="jrebel.android.LAST_BUILD_EXPIRED_SHOWN_TIMESTAMP" value="2017-12-13T14:25:39.571+03:00" />
+    <property name="js.chrome.debugger.port" value="50722" />
+    <property name="js.chrome.debugger.port.98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" value="49994" />
+    <property name="kotlin.lastUpdateCheck" value="1546504697039" />
+    <property name="last.imported.location" value="$USER_HOME$/Workspace/taxistartup-full/taxi/gradle/build.gradle" />
+    <property name="last.used.gradle.home" value="$USER_HOME$/gradle/gradle-3.4.1" />
+    <property name="lastTip" value="182" />
+    <property name="newly.installed.api.level" value="28" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="search.everywhere.max.popup.width" value="936" />
+    <property name="selected.color.option.type" value="VCS_ANNOTATIONS_COLOR_1" />
+    <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.557508" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.69648564" />
+    <property name="vcs.log.details.splitter.proportion" value="0.648582" />
+  </component>
+  <component name="StepicUpdateSettings">
+    <option name="lastTimeChecked" value="1512040281208" />
+    <option name="LAST_TIME_CHECKED" value="1512040281208" />
+  </component>
+</application>
